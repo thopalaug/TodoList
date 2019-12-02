@@ -1,0 +1,8 @@
+Karate training	do some karate training with Josh	07 desember, 2019
+Dinner prep	do some food testing before the Christmas dinner	14 desember, 2019
+newitem2323	this is a short demo	03 desember, 2019
+testing colors	testing the color for something with deadline tomorrow	26 november, 2019
+testing sort function	this is a test for the sorting function	01 november, 2019
+Lorem Ipsum	"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."	16 desember, 2020
+Testing today toggle	Testing to see if this item shows up when toggling for todays items	01 desember, 2019
+testing so, very hard	this is a harder and better test, I hope	24 desember, 2019
